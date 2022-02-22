@@ -1,6 +1,7 @@
-# Tic-Tac-Toe
-
-Create a game with html, css and javascript.
+<h1 align="center"> Tic-Tac-Toe </h1>
+<p style=color:blue align="center"> Created By : Ishika Singh &#128525; &#128525; &#128525;</p>
+<br>
+<p>Create a game with HTML, CSS and JavaScript.</p>
 
 You can play it here: https://codepen.io/ishikasingh18/pen/ZEaJqQx
 
